@@ -23,8 +23,8 @@ class Usage(Exception):
 def build_parser():
     """docstring for build_parser"""
     parser = optparse.OptionParser()
-    parser.add_option('-q', action="store", default="apple", dest='query')
-    parser.add_option('-p', action="store", default=10, dest='max_pages', type='int')
+    parser.add_option('-q', action="store", default="apple", dest='query', help="what you want to search twitter for")
+    parser.add_option('-p', action="store", default=10, dest='max_pages', type='int', help="the maximum number of twitter search result pages to fetch.")
     return parser
 
 def get_tweets(query, max_pages=10):
