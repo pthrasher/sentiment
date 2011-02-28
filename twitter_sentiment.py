@@ -24,6 +24,7 @@ def build_parser():
     """docstring for build_parser"""
     parser = optparse.OptionParser()
     parser.add_option('-q', action="store", default="apple", dest='query')
+    parser.add_option('-p', action="store", default=10, dest='max_pages', type='int')
     return parser
 
 def get_tweets(query, max_pages=10):
@@ -55,7 +56,7 @@ def main(args):
     options, values = parser.parse_args(args)
     try:
 
-        tweets = get_tweets(options.query)
+        tweets = get_tweets(options.query, max_pages=options.max_pages)
 
         c = sentiment.Classifier()
         results = c.classify(tweets)
