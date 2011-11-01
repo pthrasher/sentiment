@@ -1,0 +1,1 @@
+install of db worked first time, failed second time. Difference 2nd install I did the pre-reqs oh dear time for third attempt :-(

@@ -1,0 +1,1 @@
+Sorting out the mess created by migrating an age-old VB project to vs 2008. Finally got the app to build, setup proj still a mess. :(

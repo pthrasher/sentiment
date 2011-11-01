@@ -1,0 +1,1 @@
+Preparing numbers for ReSharper 4.5 release. Who need numbers, I wonder? :)

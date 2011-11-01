@@ -1,0 +1,1 @@
+@tomlazar looks pretty similar in goal to zest.releaser. Tagging, uploading to pypi. Couple of differences, of course :-) Looks fine.

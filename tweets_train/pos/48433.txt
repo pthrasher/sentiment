@@ -1,0 +1,1 @@
+@romanv I like \n. Say is used on perl 6.0 as well :)

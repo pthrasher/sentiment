@@ -1,0 +1,1 @@
+@sazp System controls are invariably a pain, better to leave them at default style I've found, it's easier all round :-)

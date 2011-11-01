@@ -1,0 +1,1 @@
+might have to make some changes to ruby twitter .. it doesn't include headers coming back ..so no API count without a serperate http call :(

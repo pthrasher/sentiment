@@ -1,0 +1,1 @@
+Re www.skirt.com @cdharrison @tiburon @thagler: Agree site looks great! But check #a11y: no alt text on nav imgs = scrn-reader unfriendly :(

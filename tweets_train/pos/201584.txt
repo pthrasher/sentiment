@@ -1,0 +1,1 @@
+@catherinedevlin did you set the &quot;connect at power on&quot; flag? It's in &quot;Edit settings&quot; :)

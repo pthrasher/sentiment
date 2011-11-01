@@ -1,0 +1,1 @@
+Nice! I've got TimeVault all set up with an sshfs share routed to the external hard drive on my home server :-)

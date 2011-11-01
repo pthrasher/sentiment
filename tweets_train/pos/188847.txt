@@ -1,0 +1,1 @@
+ruby on rails is fun. My first application in ruby, an online shop, is almost done :)

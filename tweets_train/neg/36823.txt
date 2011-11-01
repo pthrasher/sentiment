@@ -1,0 +1,1 @@
+@willsmith727 I think the trick is just not to use CSS -period! Emails seem to have a love affair with tables unfortunately :(

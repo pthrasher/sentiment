@@ -1,0 +1,1 @@
+10.5.7 update made interesting change: I used to delete items in iTunes with Delete-Return-M. Now I need 2 hands to hit Delete-Return-D. :-(

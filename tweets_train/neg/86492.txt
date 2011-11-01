@@ -1,0 +1,1 @@
+giving up on updating location in Fire Eagle. I can get GETs to work, but the POST you need to do for 'update' fails with invalid sig :-(

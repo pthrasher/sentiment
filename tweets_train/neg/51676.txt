@@ -1,0 +1,1 @@
+@easyspace 1GB Ram is not available as an addon if you already have a vps with you guys. :(

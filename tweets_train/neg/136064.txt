@@ -1,0 +1,1 @@
+I have finally settled on using multiple installs of WP instead of WPMU. Only way to have the functionality I need. Boo :(

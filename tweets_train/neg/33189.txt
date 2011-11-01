@@ -1,0 +1,1 @@
+Have installed msysGit and TortoiseGIT (64bit edition). every Git option yields &quot;Msys Git Install Path Error&quot; :( no path is accepted.

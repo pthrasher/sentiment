@@ -1,0 +1,1 @@
+I'm just messing around with tweetdeck settings ... and suffering major memory leak :( #fail

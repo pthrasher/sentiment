@@ -1,0 +1,1 @@
+bad idea: an xml DRM wrapper around a perfectly fine interface like a file system. if the system was open i would not have lost my songs :(

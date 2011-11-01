@@ -1,0 +1,1 @@
+Got my conky script working. :D

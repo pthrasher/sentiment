@@ -1,0 +1,1 @@
+Gah! Cannot pass a member function pointer to a signal handler in C++ :(  http://tinyurl.com/ytb5vo

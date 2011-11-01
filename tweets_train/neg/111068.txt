@@ -1,0 +1,1 @@
+@BarryCarlyon I didn't understand that :(  Try commands like 'Buy 30 #tag' or 'Sell 30 #tag'

@@ -55,7 +55,7 @@ def main(args):
     parser = build_parser()
     options, values = parser.parse_args(args)
     try:
-
+        print "Searching for: %s." % options.query
         tweets = get_tweets(options.query, max_pages=options.max_pages)
 
         c = sentiment.Classifier()

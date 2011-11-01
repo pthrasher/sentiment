@@ -1,0 +1,1 @@
+researching HL7 engine, http://is.gd/oVXX  troubleshooting VS vendors &amp; data, MSFT did not make SQLEx2005 SP3 CU3 available :( - no surprise

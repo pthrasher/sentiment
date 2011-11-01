@@ -1,0 +1,1 @@
+Having to fight with Group Policy changing my Internet Explorer Settings - the fun of IT not understanding the needs of Developers :(

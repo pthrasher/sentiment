@@ -1,0 +1,1 @@
+@luislavena Rake-compiler seems to be conflict with Passenger http://gist.github.com/97767 :(

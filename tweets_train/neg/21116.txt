@@ -1,0 +1,1 @@
+Running #android on my Openmoko Freerunner. Eye-candy UI, makes good use of both HW buttons for navigation. Linux base OS not as nice. :(

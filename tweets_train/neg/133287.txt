@@ -1,0 +1,1 @@
+Tested a fix for the S60 route generator utility. A long overdue one :(

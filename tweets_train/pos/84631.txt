@@ -1,0 +1,1 @@
+@dhtorres Thx. :-) But we have still some problems with it. I guess we have to flush all the caches via #Quartz every hour.

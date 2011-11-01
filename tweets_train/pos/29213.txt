@@ -1,0 +1,1 @@
+@XPR ordinarily you format your disk/s and can make there a zfs-pool :) if you need i can make a viceo from this?

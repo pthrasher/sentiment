@@ -1,0 +1,1 @@
+&lt;grumble&gt; Can't copy from an OS X app and paste into a Winblows app in Parallels :-(

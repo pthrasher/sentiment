@@ -1,0 +1,1 @@
+@SonicHedgehog accelerometer was the main focus but there are also a few minor fixes and an added help screen for the n00bs :D

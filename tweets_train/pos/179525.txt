@@ -1,0 +1,1 @@
+I trying the framework CakePHP. Looks much simple than Zend framwork and more clear than Joomla... maybe the right choice =)

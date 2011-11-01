@@ -1,0 +1,1 @@
+&quot;Seperate multiple email addresses with commas,&quot; says the web form, then rejects my multiple addresses because the field contains a comma :(

@@ -1,0 +1,1 @@
+@marcjohnson That is what I would use in ASP.NET however I am working on Windows Forms so such niceties are lost to me :(

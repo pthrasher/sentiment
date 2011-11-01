@@ -1,0 +1,1 @@
+Trying out twhirl. Took a bit of fiddling to get Air and it running under 64 bit Ubuntu. Shows boxes for Thai letters :(

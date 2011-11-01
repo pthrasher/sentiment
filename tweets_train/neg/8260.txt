@@ -1,0 +1,1 @@
+Finally got to install ARToolkit... on Windows :(
